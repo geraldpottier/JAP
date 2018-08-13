@@ -1,4 +1,5 @@
-# JAP rewritten in Angular6 and Bootstrap 4 (modding the original Simple Dashboard Admin App)
+# JAP rewritten in Angular6 and Bootstrap 4 
+(modding the original Simple Dashboard Admin App)
 
 I am not the creator of Simple Dashboard Admin App, the contributors are found here: 
 https://github.com/start-angular/SB-Admin-BS4-Angular-6/graphs/contributors
